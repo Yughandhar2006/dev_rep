@@ -1,2 +1,2 @@
 this is a new file in git folder
-
+this is also a test file
